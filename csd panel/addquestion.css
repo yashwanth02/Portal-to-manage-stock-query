@@ -1,0 +1,25 @@
+body{
+margin:0;
+padding:0;
+background-color:white;
+}
+
+h1{
+color:brown;
+text-align: center;
+}
+#add-ques{
+font-size:20px;
+color:black;
+}
+textarea {
+  width: 250px;
+  height: 150px;
+}
+textarea::placeholder{
+font-size:25px;
+color: cadetblue;
+}
+label{
+color:#404040;
+}
